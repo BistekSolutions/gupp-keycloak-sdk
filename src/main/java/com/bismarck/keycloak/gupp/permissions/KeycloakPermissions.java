@@ -1,4 +1,4 @@
-package com.bismarck.keycloak.gupp;
+package com.bismarck.keycloak.gupp.permissions;
 
 /**
  * Roles, that can be handled by the gupp-user-provider-spi
